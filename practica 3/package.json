@@ -1,0 +1,19 @@
+{
+  "name": "practica-3-poo",
+  "version": "1.0.0",
+  "description": "Sistema de mineria POO",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.39",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
